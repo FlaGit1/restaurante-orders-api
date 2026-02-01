@@ -1,4 +1,4 @@
-# Gerenciar repositórios remote
+# Gerenciar repositórios remote - Versão 2
 
 Aprenda a trabalhar com seus repositórios locais no seu computador e repositórios remotos hospedados no GitHub.
 
